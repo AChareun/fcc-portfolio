@@ -1,0 +1,19 @@
+{
+  "name": "fcc-portfolio",
+  "version": "1.0.0",
+  "description": "portfolio project for freeCodeCamp Responsive Web Design Certification",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AChareun/fcc-portfolio.git"
+  },
+  "author": "Alonso Chareun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AChareun/fcc-portfolio/issues"
+  },
+  "homepage": "https://github.com/AChareun/fcc-portfolio#readme"
+}
