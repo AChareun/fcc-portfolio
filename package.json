@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AChareun/fcc-portfolio/issues"
   },
-  "homepage": "https://github.com/AChareun/fcc-portfolio#readme"
+  "homepage": "https://github.com/AChareun/fcc-portfolio#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0"
+  }
 }
